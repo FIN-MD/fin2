@@ -38,8 +38,8 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
            },
                {
              quickReplyButton: {
-               displayText: 'SOURCE CODE',
-               id: '.sc',
+               displayText: 'owner',
+               id: 'wa.me.6282261065144',
              }
              
              },
