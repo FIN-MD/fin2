@@ -2,7 +2,7 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
-*Hallo user DaniBotz-Ofc👋,* 
+*Hallo user FIN-MD👋,* 
 
 *Saya adalah Bot WhatsApp Multi Device yang di buat oleh Creator kami.*
 Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendownload sesuatu seperti:
@@ -39,7 +39,7 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
                {
              quickReplyButton: {
                displayText: 'owner',
-               id: 'wa.me.6282261065144',
+               id: 'wa.me/6282261065144',
              }
              
              },
