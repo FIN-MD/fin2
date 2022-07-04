@@ -16,7 +16,7 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🐣Via link gc🐣',
-               url: 'https://linktr.ee.fin222'
+               url: 'https://linktr.ee/fin222'
              }
 
            },
