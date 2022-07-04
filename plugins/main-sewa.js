@@ -9,10 +9,9 @@ let anu = `Hallo mypren 👋
 ━━━〔 ıll *Sewa Bot* llı 〕━━ꕥ
 ━━━━━━━━━━━━━━━━━━━━
 ━━━〔 ıll *HARGA* llı 〕━━ꕥ
-⬡ *1 BULAN:* *5.000*
-⬡ *PERMANEN 2 grup:* *10.000*
-⬡ *PERMANEN 3-6 grup:* *20.000*
-⬡ *lebih dari 6 tambah +5.000*
+⬡ *1 MINGGU 1 grup:* *5.000*
+⬡ *1 MINGGU 2 grup:* *10.000*
+⬡ *1 BULAN 1 grup:* *15.000*
 ┗━━━━━━━━━━━━━━━ꕥ
 ┏━━━〔 ıll *PAYMENT* llı 〕━━ꕥ
 ⬡ *DANA:* ${dana}
