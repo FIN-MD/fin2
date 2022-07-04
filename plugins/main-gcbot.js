@@ -16,14 +16,14 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🐣Via link gc🐣',
-               url: 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
+               url: 'https://linktr.ee.fin222'
              }
 
            },
                 {
                urlButton: {
                displayText: '🪀Wa owner🪀',
-               url: 'https://wa.me/message/LSVGQQPG6FUQF1'
+               url: 'https://wa.me/message/qr/QHZ6MQMIBJCIK1'
              }
 
            },
