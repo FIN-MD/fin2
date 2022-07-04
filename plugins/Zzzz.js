@@ -37,23 +37,16 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🎮GroupBot🎮',
-               url: 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
+               url: 'https://linktr.ee/fin222'
              }
 
            },
                 {
                urlButton: {
                displayText: '🔮Myweb🔮',
-               url: 'https://istagram.com/zalfapontinanak'
+               url: 'https://istagram.com/al_vin.233
              }
 
-           },
-               {
-             quickReplyButton: {
-               displayText: 'Script',
-               id: '.sc',
-             }
-             
            },
                {
              quickReplyButton: {
