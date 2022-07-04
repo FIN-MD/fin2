@@ -5,14 +5,7 @@ let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
 *STORE CREATOR*
-«================»
-››╭─〘 *Store* 〙
-╭╡📮: Store owner kami.
-│┝‷✧ *jasa run bot:*
-│┝‷✧ *jasa jadi bot:*
-│╰───···─────
-│⁺◛˖ Ingin membeli store owner? Chat owner aja…
-╰──────────···───
+TIDAK TERSEDIA
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(fotonya1)).buffer()}, { upload: conn.waUploadToServer }) 
     const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
