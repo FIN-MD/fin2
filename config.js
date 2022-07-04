@@ -11,7 +11,7 @@ global.prems = ['6282261065144'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'fin'
-global.numberowner = '6281251549899' //ganti pakai nomor mu
+global.numberowner = '6282261065144' //ganti pakai nomor mu
 global.instagram = 'al_vin.233' //ganti pakai Instagram mu
 global.github = 'https://github.com/Raya2399' //ganti aja pakai githubmu
 global.tt = '"tiktok.com/@alvin_ch1"' //ganti aja pakai tiktok mu
