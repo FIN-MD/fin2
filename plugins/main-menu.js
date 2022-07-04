@@ -42,7 +42,7 @@ const defaultMenu = {
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃❑ %cmd %islimit %isPremium',
   footer: '┃\n╰────────❑\n', 
-  footerText: 'Powered by Rozi',
+  footerText: 'Powered by FIN',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
@@ -57,6 +57,7 @@ const defaultMenu = {
 ⫹⫺ RielgansOfc
 ⫹⫺ Zifabotz_offc1
 ⫹⫺ DaniBotz-Ofc
+⫹⫺ FIN-botz
 ╰─────────────⬣
 `,
 }
@@ -553,7 +554,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
            {
              quickReplyButton: {
-               displayText: 'Group Offcial',
+               displayText: 'Group bot',
                id: '.gcbot',
              }
            }]
