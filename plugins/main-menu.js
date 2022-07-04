@@ -328,7 +328,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                   "rowId": `.sewazifa`
                  },{
               	"title": `💬⟩⟩» RULES BOT`,
-                  "description": "Rules Yang Harus Di Patuhi User Shinn",
+                  "description": "Rules Yang Harus Di Patuhi User fin-botz",
                   "rowId": `.snk`
                 }],
                 "title": "⟣─────────❲ 𝗜 𝗡 𝗙 𝗢 ❳──────────⟢"
