@@ -54,5 +54,5 @@ let krizyn = `
 
 handler.tags = ['main', 'info']
 handler.command = /^(sourcecode)$/i
-handler.help = ['biodata']
+handler.help = ['sourcecode']
 module.exports = handler
