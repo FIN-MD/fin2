@@ -46,7 +46,7 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
                {
              quickReplyButton: {
                displayText: 'COMMAND',
-               id: '.fin',
+               id: '.zifa',
              }
 
            }]
