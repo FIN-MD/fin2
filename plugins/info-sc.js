@@ -53,6 +53,6 @@ let krizyn = `
 }
 
 handler.tags = ['main', 'info']
-handler.command = /^(sc|script|sourcecode)$/i
-handler.help = ['script']
+handler.command = /^(sourcecode)$/i
+handler.help = ['biodata']
 module.exports = handler
