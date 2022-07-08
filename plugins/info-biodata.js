@@ -3,10 +3,11 @@ let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
 •·––––––––––––––––––––––––––·•
-❑ *Nama* : Dani Ganz
+❑ *Nama* : fin
 ❑ *Umur* : 15 Tahun
 ❑ *Kelas* : 9 SMP
-❑ *Ulang Tahun* : 16 DESEMBER 2007
+❑ *Ulang Tahun* : TIDAK DIKETAHUI
+❑ *Gender* : TIDAK DIKETAHUI
 ❑ *Alamat* : Indonesia, Kalimantan Selatan, Kandangan
 •·––––––––––––––––––––––––––·•
 	`.trim()
