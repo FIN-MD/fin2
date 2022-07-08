@@ -32,7 +32,7 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
                {
              quickReplyButton: {
                displayText: 'PATUHI RULES BOT',
-               id: '.snk',
+               id: '.rules',
              }
              
            },
