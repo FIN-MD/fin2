@@ -39,7 +39,7 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
                {
              quickReplyButton: {
                displayText: 'owner',
-               id: 'https://wa.me/message/6282261065144',
+               id: 'owner',
              }
              
              },
